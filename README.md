@@ -15,7 +15,7 @@
 <img align="left" width = "26px" alt = "C#" src = "https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
 <img align="left" width = "26px" alt = "HTML 5" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img align="left" width = "26px" alt = "CSS" src = "https://www.studieanker.be/assets/img/logo_css.9c1431e3.png">
-
+<img align="left" width = "26px" alt = "LUA" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png">
 
 <br></br>
 
