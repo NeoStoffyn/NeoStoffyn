@@ -12,7 +12,7 @@
 
 <img align="left" width = "26px" alt = "Visual studio code" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 <img align="left" width = "26px" alt = "Java script" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img align="left" width = "26px" alt = "C#" src = "https://cdn.auth0.com/blog/illustrations/csharp.png">
+<img align="left" width = "26px" alt = "C#" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbe50dl_59bn5NZ4--bpofex7mFfpFNgvuWQ&usqp=CAU">
 
 
 <br></br>
