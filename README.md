@@ -8,7 +8,7 @@
 
 [My Youtube Channel](https://www.youtube.com/channel/UCGXmeRqCm7aXbS27wMg52fg)
 
-<img align="left" alt = "Visual studio code" src = "![image](https://user-images.githubusercontent.com/54996042/122465062-e43b7a00-cfb7-11eb-8153-c08f99a8c8c3.png)">
+<img align="left" alt = "Visual studio code" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
 ### Languages and Tools:
 
