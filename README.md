@@ -7,3 +7,5 @@
 - ⚡ Fun fact: i am a boy XD
 
 [My Youtube Channel](https://www.youtube.com/channel/UCGXmeRqCm7aXbS27wMg52fg)
+
+https://github.com/NeoStoffyn/github-readme-stats
