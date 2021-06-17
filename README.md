@@ -1,4 +1,4 @@
-### Hello I am Neo it can also be Péèlo 🦉
+### Hello I am Neo I am also named Péèlo 🦉
 
 
 - 🔭 I’m currently working C# ..... 😊
