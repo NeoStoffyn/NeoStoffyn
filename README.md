@@ -8,6 +8,6 @@
 
 [My Youtube Channel](https://www.youtube.com/channel/UCGXmeRqCm7aXbS27wMg52fg)
 
-https://github.com/NeoStoffyn/github-readme-stats
 
-<img src = "">
+
+<img src = "" alt = "Image">
