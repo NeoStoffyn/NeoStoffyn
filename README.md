@@ -2,10 +2,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/NeoStoffyn)  
 
-- 🔭 I’m currently working C# projects 😊
-- 🌱 I’m currently learning C#
-- 📫 How to reach me: [My discord](https://discord.com/invite/ZxVtUNAeCC)
-- ⚡ Fun fact : I am a boy XD
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='33'>](https://github.com/NeoStoffyn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='33'>](https://stackoverflow.com/users/https://stackoverflow.com/users/16261630/p%c3%a9%c3%a8lo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='33'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCGXmeRqCm7aXbS27wMg52fg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='33'>](https://www.reddit.com/user/https://www.reddit.com/user/NeoStoffyn)  
